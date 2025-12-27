@@ -6,8 +6,7 @@ import JSXExample from './core-concepts/jsxexample'
 import PropsExample from './core-concepts/PropsExample'
 import SimpleForm from './core-concepts/simpleForm'
 import Stateexample from './core-concepts/Statexample'
-import Listevent from './Listevent'
-
+ import Listevent from './core-concepts/Listevent'
 function App() {
   // return <div> <Helloworld/> </div>
   // return <PropsExample tech="React js" title="React tutorial 2025" date="2025-12-31" day="saturday" />
